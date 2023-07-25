@@ -1,16 +1,15 @@
-### Hi there 👋
+### Bonjour bienvenue dans cette classe 👋
 
-<!--
-**ferndabazaniye65/ferndabazaniye65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**Ferdinand**
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on some projects uusing development tools
+- 🌱 I’m currently learning how to develop a webpage
+- 👯 I’m looking to collaborate with the facilitators from Sirius on the subject de developpement de site web 
+- 🤔 I’m looking for help with the faciitators from Sirius
+- 💬 Ask me about my profile
+- 📫 How to reach me: 
 - ⚡ Fun fact: ...
--->
+
